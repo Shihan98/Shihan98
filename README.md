@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shihan Amara Thathsara<br>🌱 I’m currently learning Spring Boot, React , Nest JS<br>📫 How to reach me shihanamarathathsara@gmail.com
+ Hi 👋, I'm Shihan Amara Thathsara<br>🌱 I’m currently learning Spring Boot, React , Nest JS<br>📫 How to reach me shihanamarathathsara@gmail.com
 
 
 # 💻 Tech Stack:
